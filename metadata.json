@@ -1,0 +1,6 @@
+{
+  "name": "Smart Download",
+  "description": "Safe software discovery and download portal specifically for Windows laptops and PCs, directing users to official developer sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
